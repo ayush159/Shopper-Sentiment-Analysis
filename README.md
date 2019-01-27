@@ -1,4 +1,7 @@
 # Shopper-Sentiment-Analysis
+
+Using Machine Learning services on live video strema from a store to derive insights from customer behavior (i.e. which area of the store is frequently visited), demographic segmentation of store traffic (i.e. such as gender or approximate age) while also analyzing patterns of customer sentiment.
+
 ## Architecture 
 ![alt text](https://github.com/ayush159/Shopper-Sentiment-Analysis/blob/master/Architecture.jpg)
 
