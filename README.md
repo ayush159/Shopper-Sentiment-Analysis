@@ -1,13 +1,13 @@
 # Shopper-Sentiment-Analysis
 ## Architecture 
-![alt text](https://github.com/darshildpatel/Shopper-Sentiment-Analysis/blob/master/Architecture.jpg)
+![alt text](https://github.com/ayush159/Shopper-Sentiment-Analysis/blob/master/Architecture.jpg)
 
 
 ## Front End Screen Grabs
-![alt text](https://github.com/darshildpatel/Shopper-Sentiment-Analysis/blob/master/screencapture1.png)
+![alt text](https://github.com/ayush159/Shopper-Sentiment-Analysis/blob/master/screencapture1.png)
 
 ##
-![alt text](https://github.com/darshildpatel/Shopper-Sentiment-Analysis/blob/master/screencapture.png)
+![alt text](https://github.com/ayush159/Shopper-Sentiment-Analysis/blob/master/screencapture.png)
 
 ## [Demo Link](https://youtu.be/N6zikKSrfGE)
 
